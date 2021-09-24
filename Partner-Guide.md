@@ -53,7 +53,7 @@ We will work with you to:
 * Identify key stakeholders.
 * Schedule meeting times with various stakeholders.  
 
-To prepare for this, consult the interview topics](#interview-topics) and identify who might be best suited for each meeting.
+To prepare for this, consult the [interview topics](#topics) and identify who might be best suited for each meeting.
 
 We will also need you to collect and send as many of the following documents as you have available. Our goals is not for you to draft these documents for the purpose of the exploration:
 
@@ -122,7 +122,7 @@ If you’re interested in proceeding with Exploration:
 * Fill in information about selected stakeholders below.
 
 
-## Interview Topics
+## <a name="topics">Interview Topics
 
 ### Design and direction (Chat #1)
 
